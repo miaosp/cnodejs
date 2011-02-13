@@ -1,4 +1,5 @@
-# MAC下翻墙心得
+#labels gfw
+#MAC下翻墙心得
 
 = Introduction =
 
